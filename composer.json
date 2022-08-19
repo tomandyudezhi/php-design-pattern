@@ -1,0 +1,17 @@
+{
+    "name": "tomandyudezhi/php-design-pattern",
+    "type": "project",
+    "authors": [
+        {
+            "name": "余德智",
+            "email": "5574083+tomandyudezhi@user.noreply.gitee.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Tomandyudezhi\\PhpDesignPattern\\": "src/"
+        }
+    }
+}
